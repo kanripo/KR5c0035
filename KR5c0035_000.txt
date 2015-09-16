@@ -1,14 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 00:16:58.500169
+# -*- mode: mandoku-view -*-
 #+TITLE: 太上洞神天公消魔護國經
-#+PROPERTY: DZID  DZ0654
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，11—420 三卷 洞神部本文類
+#+DATE: 2015-08-29 00:16:59
+#+PROPERTY:  LASTPB <PB KR5c0035_SJB_003-110425b>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
-#+PROPERTY: ID KR5c0035
-<pb:KR5c0035_HFL_000-001a>¶
-二經同卷女三¶
-　太上洞神天公消魔護國經(上中下)¶
-　太上說紫㣲神兵護國消魔經¶
-¶
-¶
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶¶¶¶¶¶
+
